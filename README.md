@@ -10,7 +10,7 @@ This project demonstrates a customer segmentation analysis using Python on a dat
 
 
 
-1. Objective: Identify meaningful customer segments to inform marketing and business decisions.
+1\. Objective: Identify meaningful customer segments to inform marketing and business decisions.
 
 
 
@@ -63,4 +63,5 @@ This project demonstrates a customer segmentation analysis using Python on a dat
 7\. Documentation
 
 The PDF report contains all results, cluster profiles, and recommendations, while the Jupyter Notebook includes the code used to generate them.
+
 
