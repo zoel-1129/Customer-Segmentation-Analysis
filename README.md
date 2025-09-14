@@ -37,20 +37,7 @@ This project demonstrates a customer segmentation analysis using Python on a dat
 * Visualisation: Histograms, pie charts, cluster plots
 
 
-
-5\. Project Structure
-
-├── data/                # Dataset used for analysis
-
-├── notebooks/           # Jupyter Notebook with all Python code
-
-├── reports/             # PDF report with analysis, tables, and visualisations
-
-└── README.md            # Project overview and documentation
-
-
-
-6\. Key Skills Demonstrated
+5\. Key Skills Demonstrated
 
 * Data preprocessing and cleaning
 * Exploratory Data Analysis (EDA)
@@ -60,8 +47,9 @@ This project demonstrates a customer segmentation analysis using Python on a dat
 
 
 
-7\. Documentation
+6\. Documentation
 
 The PDF report contains all results, cluster profiles, and recommendations, while the Jupyter Notebook includes the code used to generate them.
+
 
 
